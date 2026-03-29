@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "TP-MODUL5-103022400129\\Program.cs",
               "ToolTip": "D:\\C#\\TP-MODUL5-103022400129\\TP-MODUL5-103022400129\\Program.cs",
               "RelativeToolTip": "TP-MODUL5-103022400129\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+>>>>>>> generic-method
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T06:05:16.597Z",
               "EditorCaption": ""
