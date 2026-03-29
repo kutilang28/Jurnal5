@@ -1,5 +1,7 @@
 .vs/
 [Bb]in/
 [Oo]bj/
-*.user
+*.exe
+*.pdb
 *.suo
+*.user
